@@ -15,3 +15,7 @@ print (list[2:]) # print element starting from 3rd element
 print (tinylist * 2) # print list two times
 
 print (list + tinylist) # prints concatenated lists
+
+list[2] = 1000 
+
+print (list)
